@@ -10,6 +10,14 @@ Bu proje, popüler MNIST veri setini kullanarak el yazısı rakamları (0-9) tan
   * **Resim Yükle:** Kendi cihazınızdaki bir rakam görselini (.png, .jpg) yükleyerek test edebilirsiniz.
   * **Çizim Yap:** Entegre çizim tahtası üzerinden anlık olarak farenizle rakam çizip modelin tahminini görebilirsiniz.
 
+## 📸 Ekran Görüntüleri
+
+### Resim Yükleme Ekranı
+![Resim Yükleme Arayüzü](Ekran%20görüntüsü%202026-03-14%20220057.png)
+
+### Canlı Çizim ve Tahmin Ekranı
+![Çizim Yapma Arayüzü](Ekran%20görüntüsü%202026-03-14%20220122.png)
+
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Python 3.x**
