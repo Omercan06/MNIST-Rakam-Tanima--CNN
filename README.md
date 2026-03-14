@@ -13,11 +13,13 @@ Bu proje, popüler MNIST veri setini kullanarak el yazısı rakamları (0-9) tan
 ## 📸 Ekran Görüntüleri
 
 ### Resim Yükleme Ekranı
-![Resim Yükleme Arayüzü](<img width="1919" height="791" alt="Image" src="https://github.com/user-attachments/assets/02313aa4-2506-4a3b-aaf6-76d3ef0844ab" />)
+![Resim Yükleme Arayüzü]
+<img width="1919" height="791" alt="Image" src="https://github.com/user-attachments/assets/02313aa4-2506-4a3b-aaf6-76d3ef0844ab" />
 
 
 ### Canlı Çizim ve Tahmin Ekranı
-![Çizim Yapma Arayüzü](<img width="1919" height="836" alt="Image" src="https://github.com/user-attachments/assets/9da615ba-333a-4d1d-b2b9-0df32c198870" />)
+![Çizim Yapma Arayüzü]
+<img width="1919" height="836" alt="Image" src="https://github.com/user-attachments/assets/9da615ba-333a-4d1d-b2b9-0df32c198870" />
 
 ## 🛠️ Kullanılan Teknolojiler
 
